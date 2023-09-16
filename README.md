@@ -9,5 +9,6 @@
 + Foundry IPs
 + Foundry: Place where chips get manufactured
 + Macros: Digital Blocks
++ Instruction Set Architecture
 
 </details>
