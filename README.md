@@ -74,6 +74,12 @@
 
 + To extract SPICE Netlist
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/528090dd-04d5-45ac-9249-e583aa8dd429)
++ SPICE File
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/2c9df05f-2d05-4271-ab9c-9f0ce6bd5f0f)
++ SPICE file after wrapper for simulation
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/f619146a-d631-459d-a8ff-9809a6ef2190)
++ ngspice
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/7b14d0d1-c22c-49f3-a2dc-acc75c4f6990)
 
 
 </details>
