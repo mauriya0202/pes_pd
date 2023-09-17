@@ -86,6 +86,11 @@
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/4d4e48b4-effa-4668-9d49-421ee25b70e4)
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/11573355-2567-49d2-ad75-e841ae7fe284)
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/5291d410-0cfd-47f2-a42a-907c135d62f7)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/51910833-3235-4612-8a37-0b0edeb6e04a)
+
++ Correcting Errors
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/a87ec51c-1d5b-4fcb-b4a9-4060ff6f97a2)
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/eca9c8b9-b1ba-4825-89f8-bbd562902e14)
 
 
 </details>
