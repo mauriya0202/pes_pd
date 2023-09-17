@@ -81,6 +81,12 @@
 + ngspice
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/7b14d0d1-c22c-49f3-a2dc-acc75c4f6990)
 
+#### Magic Tool and sky130 PDKs
+
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/4d4e48b4-effa-4668-9d49-421ee25b70e4)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/11573355-2567-49d2-ad75-e841ae7fe284)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/5291d410-0cfd-47f2-a42a-907c135d62f7)
+
 
 </details>
 
