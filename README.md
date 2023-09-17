@@ -49,6 +49,14 @@
 + Running Placement on OpenLane
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/76558be1-a790-43a4-9dc8-a41de29f3327)
 
++ Slew low threshold
++ Slew high threshold
+
+</details>
 
 
+<details><summary>Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization</summary>
+
+
+  
 </details>
