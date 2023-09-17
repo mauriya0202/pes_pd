@@ -42,6 +42,7 @@
 + Steps to run floorplan using OpenLANE
 
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/44e6269a-a9e4-4c41-8505-373fc748ad69)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/1f34a92d-0f8e-42b7-ab8c-8a67f96fe1b7)
 
 
 </details>
