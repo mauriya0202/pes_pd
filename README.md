@@ -11,14 +11,24 @@
 + Macros: Digital Blocks
 + Instruction Set Architecture
 
-+ EDA Toold
-+ PDK Data
-+ RTL Designs
+- EDA Toold
+- PDK Data
+- RTL Designs
 
 ### Labwork
 
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/c56c2556-72a7-4f65-aa93-3ae4c8172c80)
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/ffbf4a46-334b-405a-808a-ace1aaaf10e8)
 
+
+</details>
+
+
+<details><summary>Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells</summary>
+
+## Chip Floor planning considerations
+
++ Defining width and height of Core and Die: 100% utilization of core area, practically its about 60%
++ Aspect ration
 
 </details>
