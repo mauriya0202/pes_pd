@@ -95,6 +95,8 @@
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/1006c1c3-a919-47b0-b08a-9fc7220940f4)
 + Magic Layout to LEF
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/49567cb3-493a-46f9-bd66-c0aa9728ed3e)
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/852136ac-168b-4b10-b33e-e901d91d57c9)
++ Including Custom Cell in to OpenLane Flow
 
 
 
