@@ -57,7 +57,7 @@
 
 <details><summary>Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization</summary>
 
-
++ Note: DRC errors in magic will be highlighted with white dotted lines
 + post layout simulation
 
 
@@ -66,6 +66,10 @@
 
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/51ff8c52-d1d2-4b77-ac2e-6ac793f606d7)
 
+### Lab Work
+
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/efc7dd24-893f-4248-9d46-e50cd18337ee)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/f04b0e19-3a78-4128-8261-0acee6eaeaf5)
 
   
 </details>
