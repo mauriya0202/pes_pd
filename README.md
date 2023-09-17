@@ -89,6 +89,10 @@
 
 + tracks.info : Where PNR can route the metal layers
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/31be7819-d0c7-4568-96a9-5c952e14637e)
++ Ports should be at intersection of the horizontal and vertical tracks of any layer (eg li1 metal layer)
++ Grid info to track info
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/1006c1c3-a919-47b0-b08a-9fc7220940f4)
+
 
 
 </details>
