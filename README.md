@@ -57,6 +57,13 @@
 
 <details><summary>Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization</summary>
 
++ post layout simulation
+
+#### Labwork for CMOS invereter NgSPICE Simulation
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/95b50b30-5e87-4694-9b0b-ecf909229f1f)
+
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/51ff8c52-d1d2-4b77-ac2e-6ac793f606d7)
+
 
   
 </details>
