@@ -29,6 +29,19 @@
 ## Chip Floor planning considerations
 
 + Defining width and height of Core and Die: 100% utilization of core area, practically its about 60%
-+ Aspect ration
++ Aspect ratio
++ Utilization Factor
+
+- Concept of preplaced cells
+- Decoupling Capacitors
+- Power Planning
+- Pin placement and logical cell placement blockage
+
+### Labwork
+
++ Steps to run floorplan using OpenLANE
+
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/44e6269a-a9e4-4c41-8505-373fc748ad69)
+
 
 </details>
