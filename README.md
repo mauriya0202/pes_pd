@@ -71,5 +71,9 @@
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/efc7dd24-893f-4248-9d46-e50cd18337ee)
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/f04b0e19-3a78-4128-8261-0acee6eaeaf5)
 
-  
+
++ To extract SPICE Netlist
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/528090dd-04d5-45ac-9249-e583aa8dd429)
+
+
 </details>
