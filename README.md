@@ -42,9 +42,10 @@
 + Steps to run floorplan using OpenLANE
 
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/44e6269a-a9e4-4c41-8505-373fc748ad69)
-![image](https://github.com/mauriya0202/pes_pd/assets/112739882/315bbc15-666c-417c-b9a7-1d412ece35cd)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/7ccbc2fd-c758-47f6-ada0-458d25b3d208)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/1fc7d7bf-cb65-4307-b839-6c840dd3a2e5)
+![image](https://github.com/mauriya0202/pes_pd/assets/112739882/7aa5e7ef-3b36-468e-80eb-03df8a9bf10f)
 
-![image](https://github.com/mauriya0202/pes_pd/assets/112739882/15c5d7d5-26e4-4d1d-af45-e7064ef2ec5a)
 
 + Running Placement on OpenLane
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/76558be1-a790-43a4-9dc8-a41de29f3327)
