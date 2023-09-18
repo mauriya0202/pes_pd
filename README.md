@@ -104,7 +104,7 @@
 
 <details><summary>Sky130 Day 4 - Pre-layout timing analysis and importance of good clock tree</summary>
 
-+Inner boxed define the PR Boundary
++ Inner boxed define the PR Boundary
 + tracks.info : Where PNR can route the metal layers
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/31be7819-d0c7-4568-96a9-5c952e14637e)
 + Ports should be at intersection of the horizontal and vertical tracks of any layer (eg li1 metal layer)
