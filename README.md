@@ -49,6 +49,8 @@
 
 + Running Placement on OpenLane
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/76558be1-a790-43a4-9dc8-a41de29f3327)
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/d6828a3a-e3a5-467d-910e-0e39fd4f4430)
+
 
 + Slew low threshold
 + Slew high threshold
