@@ -19,7 +19,7 @@
 
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/c56c2556-72a7-4f65-aa93-3ae4c8172c80)
 ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/ffbf4a46-334b-405a-808a-ace1aaaf10e8)
-![image](https://github.com/mauriya0202/pes_pd/assets/112739882/2ef1ca7f-0caa-42a7-97eb-7106d85ca724)
+
 
 
 </details>
@@ -51,7 +51,7 @@
 + Running Placement on OpenLane
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/76558be1-a790-43a4-9dc8-a41de29f3327)
   ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/d6828a3a-e3a5-467d-910e-0e39fd4f4430)
-
+  ![image](https://github.com/mauriya0202/pes_pd/assets/112739882/2ef1ca7f-0caa-42a7-97eb-7106d85ca724)
 
 + Slew low threshold
 + Slew high threshold
